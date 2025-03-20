@@ -1,31 +1,15 @@
-# Drum_kit
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+# 🎵 Drum Kit Web Application
 
-<head>
-  <meta charset="utf-8">
-  <title>Drum Kit</title>
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
-</head>
+This is a simple DRUM KIT WEB APP  that allows users to play drum sounds by clicking on drum buttons or pressing keyboard keys. The project is built using HTML, CSS, and JavaScript.
 
-<body>
-  <h1 id="title">Drum 🥁 Kit</h1>
-  <div class="set">
-    <button class="w drum">w</button>
-    <button class="a drum">a</button>
-    <button class="s drum">s</button>
-    <button class="d drum">d</button>
-    <button class="j drum">j</button>
-    <button class="k drum">k</button>
-    <button class="l drum">l</button>
-  </div>
+FEATURES:
+- Play drum sounds using keyboard keys or mouse clicks
+- Volume Control to adjust sound levels
 
+ Technologies Used
+- HTML - Structure of the webpage
+- CSS - Styling and Dark Mode design
+- JavaScript - Handling user interactions and sound playback
 
-<script src="index.js" charset="utf-8"></script>
+Enjoy playing drums! 🥁🔥
 
-<footer>
-  Made with ❤️ in London.
-</footer>
-</body>
-</html>
